@@ -1,0 +1,218 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.23f1 (213b516bf396) revision 2177873'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ru' Physical Memory: 32693 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/notob/Documents/GitHub/SoloGame/Platformer
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+50784
+Successfully changed project path to: C:/Users/notob/Documents/GitHub/SoloGame/Platformer
+C:/Users/notob/Documents/GitHub/SoloGame/Platformer
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [24560] Host "[IP] 192.168.0.111 [Port] 0 [Flags] 2 [Guid] 4065285698 [EditorId] 4065285698 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4LDGE9F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [24560] Host "[IP] 192.168.0.111 [Port] 0 [Flags] 2 [Guid] 4065285698 [EditorId] 4065285698 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4LDGE9F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 79.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.23f1 (213b516bf396)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 (ID=0x2507)
+    Vendor:   NVIDIA
+    VRAM:     8056 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.035904 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 66.75 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.716 seconds
+Domain Reload Profiling:
+	ReloadAssembly (716ms)
+		BeginReloadAssembly (179ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (385ms)
+			LoadAssemblies (164ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (80ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (225ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (67ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (109ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.016812 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\notob\Documents\GitHub\SoloGame\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\notob\Documents\GitHub\SoloGame\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80.48 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.226 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1226ms)
+		BeginReloadAssembly (171ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (933ms)
+			LoadAssemblies (172ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (178ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (563ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (81ms)
+				BeforeProcessingInitializeOnLoad (233ms)
+				ProcessInitializeOnLoadAttributes (184ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (25ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3733 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (229.3 KB). Loaded Objects now: 4186.
+Memory consumption went from 142.7 MB to 142.5 MB.
+Total: 2.604100 ms (FindLiveObjects: 0.226000 ms CreateObjectMapping: 0.083100 ms MarkObjects: 2.179900 ms  DeleteObjects: 0.114400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 40287.399729 seconds.
+  path: Assets/Sprites/New Folder/NUTS/BLUE_NUT5.png
+  artifactKey: Guid(671a4a48a0fe22e409c3c0a1b299cfa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/NUTS/BLUE_NUT5.png using Guid(671a4a48a0fe22e409c3c0a1b299cfa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2df6b278df38d63c65070c2249f3ea') in 0.122559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.883281 seconds.
+  path: Assets/Sprites/New Folder/SEELE/SEELE 5.png
+  artifactKey: Guid(fb5e66a0a8f0946408f52c2f16a212b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/SEELE 5.png using Guid(fb5e66a0a8f0946408f52c2f16a212b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9f9a983218e3ed9095e61afc161547') in 0.017894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/New Folder/SEELE/SEELE 14.png
+  artifactKey: Guid(4ae63dd3a4ceaf2449fd1fc1c725f2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/SEELE 14.png using Guid(4ae63dd3a4ceaf2449fd1fc1c725f2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '163602876164a1108c520ef8dbc15f89') in 0.014748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/New Folder/SEELE/SEELE 13.png
+  artifactKey: Guid(b7e46a86828138240a2e6f3cbadfbb4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/SEELE 13.png using Guid(b7e46a86828138240a2e6f3cbadfbb4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2d9d206206a6895d06f6ba7d6ed4287') in 0.014341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/New Folder/SEELE/SEELE 8.png
+  artifactKey: Guid(7fe1fd164aa8dd94386a3a49540579a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/SEELE 8.png using Guid(7fe1fd164aa8dd94386a3a49540579a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3830b67819896ed5f870835a30b94d11') in 0.012123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/New Folder/SEELE/SEELE 12.png
+  artifactKey: Guid(53fff84ae18d75848b5c5904b465cd47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/SEELE 12.png using Guid(53fff84ae18d75848b5c5904b465cd47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f342f5114979d2e9a1b27465e6466b') in 0.012769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/New Folder/SEELE/SEELE 7.png
+  artifactKey: Guid(b89b25b3602fddf4e981a2a3f85fa754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/SEELE 7.png using Guid(b89b25b3602fddf4e981a2a3f85fa754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd10c1de8745f798696a5401f55102a8') in 0.013765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.369077 seconds.
+  path: Assets/Sprites/New Folder/DECOR LEVEL)/КОСТЯШКИ УЕБАШКИ/ЛЕВАЯ РУЧКА СПРАВА.png
+  artifactKey: Guid(52f8dc5b7ac16da4dad6b256fd4c822a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/DECOR LEVEL)/КОСТЯШКИ УЕБАШКИ/ЛЕВАЯ РУЧКА СПРАВА.png using Guid(52f8dc5b7ac16da4dad6b256fd4c822a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '735ce44e8b28d0fe53bc6a709ed1078c') in 0.020511 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

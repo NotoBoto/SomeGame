@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: b871e8648cbc4524cb6734d74e71b98c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BodySprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b5894deb3886a4cb213b49224330ed
+      internalID: 464908016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df86b5dcf0b2d84d946922d81c02ee6
+      internalID: 1745511449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1171e20cf529346a4909f583154b0b
+      internalID: -549991358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b7826461d81943bc9b6dccc9de4ad
+      internalID: -1710432217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168b0bd3a988d445b204b310f874c76
+      internalID: -1968700048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d181e53e9fc7cfd4aa51ac89cec90eac
+      internalID: -294106034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d0b1dceac73a04c8700481fab13360
+      internalID: 745429349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8988b91b57b77ee499c7022f3d9ff4a3
+      internalID: 1196583779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc911b536babe1742af820d7d9a972c6
+      internalID: 961042154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1214ee6795ee61e45a0860c9d4b0ea90
+      internalID: 101945984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dff839f936d8354d8e16283318b2c01
+      internalID: 1045860840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e370caab77fbe643b889f24d2aac302
+      internalID: 609795065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7803342a4dcc5bb48b148ecbe7d834f5
+      internalID: -415705919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852eedea07f3cfe47bdcf64899de2722
+      internalID: 1212959818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 679
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c68549d760eec46b5159d597df28d4
+      internalID: -267588842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 639
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4ae20fdcad534ab0e913001d94801
+      internalID: 2056113876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 639
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c06fef0914e5040a8cc2f548524de6
+      internalID: -503452126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 639
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d398cc048850042b22f67620a9f37f
+      internalID: 1632024309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 639
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fed94cfe0270047a28d5ec5ad75b16
+      internalID: 1507639560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 639
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e7783c72866d84fb313b4a643348f2
+      internalID: -470670779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 639
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feea30cf60e99e47b7df84f47a86cec
+      internalID: 1393693107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 639
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521149c1be8a1b64cb85bb5085fe9f2b
+      internalID: -1938909698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 639
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d73656864fe7b4f9428dadfd020dfd
+      internalID: -594120462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 639
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d45f495b620314e944d7d66bdf09f0
+      internalID: 635048032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 599
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8529222e70f43ef45be733f1fd74bf2e
+      internalID: 1247245393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 599
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0141edd6894ede46b9a27ac83969b6c
+      internalID: -899016343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 599
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4a93418e766b9458a1aae9ddb19cbc
+      internalID: 1340136907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 599
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f45524a40295489c66fd21eb1371e
+      internalID: 175806102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 599
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c226a0c5467f74544b3b4dc3623bdf8e
+      internalID: -364658310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 599
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdee0aa68b92d54dab1b65f86cd8dd5
+      internalID: 1649535307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 599
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e16733b20ad5488221c99b1f8d6e2
+      internalID: 738442041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 599
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb9ee784ff63314cb6d1bccb2589480
+      internalID: 735437505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 599
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f4b2602f5b02948b9d9bf1e4aef9dc
+      internalID: 1066331264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 559
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32017d2cf9a5ea649b00bf94db237fa4
+      internalID: -441375632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 559
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ae849fd7f31da43812fae852aa73f7
+      internalID: 1644598129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 559
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7533d844361eebe40aab88877b5700bc
+      internalID: 228177439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 559
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976353d3eaf39f4418cbe9860c376cc5
+      internalID: -689745674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 559
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1250f200304454b856b130f62ce144
+      internalID: -589112445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 559
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ef73ab98d345d44816cde42a97c603
+      internalID: -1789900006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 559
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78c8a7e3b39bb846b67c7cc0799827d
+      internalID: 1195110836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_40
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 559
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964eccd784eafb443ac8cbf1634a4bc0
+      internalID: 1141532964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 559
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a48fb8df9e6e6b4da7c49c8bb1b4ab3
+      internalID: -236613910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_42
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 559
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2144ab2d75bddb548a0d63dab267a723
+      internalID: 469795158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9112fd8f30d7e4d9c52e58aabed293
+      internalID: -253157564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe86db2f636e6346a77ea6927ffa6f8
+      internalID: -1268376758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8b6fae7d2a0a943968cf6eb1206f7a
+      internalID: -147837377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0ebba3a2143a14aab3535e4bed953a
+      internalID: -1013317201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d7517375066a488af13024d5053d0
+      internalID: 1566621390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_48
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee0f2ee158bf4c44b568d8c08071752
+      internalID: 1582973621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02586abff86996e48b4b67d372e24613
+      internalID: 1785854776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f075889922b96d54c9e9a6802407b603
+      internalID: 498009855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_51
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dcebc66a828ba4992783af7eee0f3e
+      internalID: -1458739374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_52
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2265aa70a96af254c943f3b1ed0af07d
+      internalID: -390599982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_53
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfafd8ae284c2d41a7e97cdb43073de
+      internalID: -221152859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_54
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb5f89c077be3b479b8c661afceb0e2
+      internalID: 519412856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_55
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f775742530bf543448b2a622426f27d2
+      internalID: -371460096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_56
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f5b56ae5736ba45b4ceeb281e225c4
+      internalID: -765738817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_57
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b6028096b4874449f29a349c30a7bd
+      internalID: 1454999996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da4b62e1c13e84f96f6e5ef8e072ab
+      internalID: -647364100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodySprite_59
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 519
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f4d71fdbe7c341893c1732135b2dc
+      internalID: -1058938846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BodySprite_0: 464908016
+      BodySprite_1: 1745511449
+      BodySprite_10: 1045860840
+      BodySprite_11: 609795065
+      BodySprite_12: -415705919
+      BodySprite_13: 1212959818
+      BodySprite_14: -267588842
+      BodySprite_15: 2056113876
+      BodySprite_16: -503452126
+      BodySprite_17: 1632024309
+      BodySprite_18: 1507639560
+      BodySprite_19: -470670779
+      BodySprite_2: -549991358
+      BodySprite_20: 1393693107
+      BodySprite_21: -1938909698
+      BodySprite_22: -594120462
+      BodySprite_23: 635048032
+      BodySprite_24: 1247245393
+      BodySprite_25: -899016343
+      BodySprite_26: 1340136907
+      BodySprite_27: 175806102
+      BodySprite_28: -364658310
+      BodySprite_29: 1649535307
+      BodySprite_3: -1710432217
+      BodySprite_30: 738442041
+      BodySprite_31: 735437505
+      BodySprite_32: 1066331264
+      BodySprite_33: -441375632
+      BodySprite_34: 1644598129
+      BodySprite_35: 228177439
+      BodySprite_36: -689745674
+      BodySprite_37: -589112445
+      BodySprite_38: -1789900006
+      BodySprite_39: 1195110836
+      BodySprite_4: -1968700048
+      BodySprite_40: 1141532964
+      BodySprite_41: -236613910
+      BodySprite_42: 469795158
+      BodySprite_43: -253157564
+      BodySprite_44: -1268376758
+      BodySprite_45: -147837377
+      BodySprite_46: -1013317201
+      BodySprite_47: 1566621390
+      BodySprite_48: 1582973621
+      BodySprite_49: 1785854776
+      BodySprite_5: -294106034
+      BodySprite_50: 498009855
+      BodySprite_51: -1458739374
+      BodySprite_52: -390599982
+      BodySprite_53: -221152859
+      BodySprite_54: 519412856
+      BodySprite_55: -371460096
+      BodySprite_56: -765738817
+      BodySprite_57: 1454999996
+      BodySprite_58: -647364100
+      BodySprite_59: -1058938846
+      BodySprite_6: 745429349
+      BodySprite_7: 1196583779
+      BodySprite_8: 961042154
+      BodySprite_9: 101945984
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

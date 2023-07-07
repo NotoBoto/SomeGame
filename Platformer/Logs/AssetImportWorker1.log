@@ -1,0 +1,548 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.23f1 (213b516bf396) revision 2177873'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ru' Physical Memory: 32693 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/notob/Documents/GitHub/SoloGame/Platformer
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+50784
+Successfully changed project path to: C:/Users/notob/Documents/GitHub/SoloGame/Platformer
+C:/Users/notob/Documents/GitHub/SoloGame/Platformer
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [27112] Host "[IP] 192.168.0.111 [Port] 0 [Flags] 2 [Guid] 2227127281 [EditorId] 2227127281 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4LDGE9F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [27112] Host "[IP] 192.168.0.111 [Port] 0 [Flags] 2 [Guid] 2227127281 [EditorId] 2227127281 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4LDGE9F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 70.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.23f1 (213b516bf396)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 (ID=0x2507)
+    Vendor:   NVIDIA
+    VRAM:     8056 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56624
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.029120 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 66.72 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.621 seconds
+Domain Reload Profiling:
+	ReloadAssembly (621ms)
+		BeginReloadAssembly (121ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (374ms)
+			LoadAssemblies (114ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (76ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (225ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (67ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (111ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012906 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\notob\Documents\GitHub\SoloGame\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\notob\Documents\GitHub\SoloGame\Platformer\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 65.39 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Domain Reload Profiling:
+	ReloadAssembly (975ms)
+		BeginReloadAssembly (135ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (730ms)
+			LoadAssemblies (126ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (162ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (398ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (65ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (169ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3733 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (229.3 KB). Loaded Objects now: 4186.
+Memory consumption went from 142.7 MB to 142.5 MB.
+Total: 2.529100 ms (FindLiveObjects: 0.204800 ms CreateObjectMapping: 0.128700 ms MarkObjects: 2.080500 ms  DeleteObjects: 0.114500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 40234.674586 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/NOTOBOTOREFERENCE.png
+  artifactKey: Guid(e731102109d73b0449bb4fdd13bf8e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/NOTOBOTOREFERENCE.png using Guid(e731102109d73b0449bb4fdd13bf8e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '567c858a0fae31a5c48db0563bc58b04') in 0.132760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered9.png
+  artifactKey: Guid(2acc4c47e7751674699c230e1ec18df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered9.png using Guid(2acc4c47e7751674699c230e1ec18df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef43122aa79b64691ebbc3005041c10') in 0.018241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното3.png
+  artifactKey: Guid(4c8daad2420050e4395c96e661c17419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното3.png using Guid(4c8daad2420050e4395c96e661c17419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d5e0c57066b490cf6a94cbd5ed659c') in 0.017469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното1.png
+  artifactKey: Guid(d4782291d647b0d41989306fb2bc2c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното1.png using Guid(d4782291d647b0d41989306fb2bc2c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34bfa3b7c323ebbacb8ce079a36f4c05') in 0.013744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното5.png
+  artifactKey: Guid(56c6f6078ac84ce4593e58147399bca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното5.png using Guid(56c6f6078ac84ce4593e58147399bca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0098aea9fa3c74bf56e3327b8cd44e3d') in 0.012432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered18.png
+  artifactKey: Guid(5f7fa327d402e274d97d2b5578d42765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered18.png using Guid(5f7fa327d402e274d97d2b5578d42765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df5be6b1106fcdb94838df2b48c0dc4') in 0.019750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/пизданулся12.png
+  artifactKey: Guid(16249a311dc11a2479bbe4771b525fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/пизданулся12.png using Guid(16249a311dc11a2479bbe4771b525fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68839e32d50bac661fcffc6700a09962') in 0.018361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered1.png
+  artifactKey: Guid(e1a1abc0de6a2144c8c3b5f9124dc7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered1.png using Guid(e1a1abc0de6a2144c8c3b5f9124dc7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a98d0a57cd78465b93ec69ff58d5c2f3') in 0.017225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/пизданулся7.png
+  artifactKey: Guid(54043d12ce0a760408e14019d38075c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/пизданулся7.png using Guid(54043d12ce0a760408e14019d38075c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ee66faaf52382bf9dea9252fff066a1') in 0.014324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното2.png
+  artifactKey: Guid(18152d5c1d3fecd47ad3f0d95b3d4d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното2.png using Guid(18152d5c1d3fecd47ad3f0d95b3d4d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc36736809217b09cdbd47a96a6b083b') in 0.016263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/очнулся16.png
+  artifactKey: Guid(fc89688e85e572242ad05b8626dfed91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/очнулся16.png using Guid(fc89688e85e572242ad05b8626dfed91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b76d3465a9941179ceb233309bd8f7c') in 0.030250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered10.png
+  artifactKey: Guid(a98ba05f1b248da43812b564e9dab648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered10.png using Guid(a98ba05f1b248da43812b564e9dab648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dce72968d272aa705b2df1b4748ca19') in 0.014319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/пизданулся3.png
+  artifactKey: Guid(29414f33fccfd874ea87269824613e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/пизданулся3.png using Guid(29414f33fccfd874ea87269824613e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6388a1d8b99756e78e6fdc038b094eb9') in 0.014960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/очнулся1.png
+  artifactKey: Guid(2591fe92d7a1ac442bada6b46fcfe72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/очнулся1.png using Guid(2591fe92d7a1ac442bada6b46fcfe72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98de4681fb83a2d297524a13557457e0') in 0.018292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered8.png
+  artifactKey: Guid(a2776f231f7c12042828159a0b9dec82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered8.png using Guid(a2776f231f7c12042828159a0b9dec82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e76fa4896567fcb2ea2e7348cf60bc78') in 0.012405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/бег 6.png
+  artifactKey: Guid(2edf9b88fa5364245a7d2df68f73f2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/бег 6.png using Guid(2edf9b88fa5364245a7d2df68f73f2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b6e0b2a508662ba0f7e47aceb59bc3') in 0.014365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/очнулся4.png
+  artifactKey: Guid(84ef3a968dd7b7943ace08d1e2221b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/очнулся4.png using Guid(84ef3a968dd7b7943ace08d1e2221b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036f4a27c3fbfbe32a340d73a804bd15') in 0.014071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/бег 1.png
+  artifactKey: Guid(b8f31d8377f170f4cb070a877bd3c370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/бег 1.png using Guid(b8f31d8377f170f4cb070a877bd3c370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9efa194a28455e8f110732f5596f839c') in 0.013185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered2.png
+  artifactKey: Guid(425c73725150fff43b3d4f8a434c6ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered2.png using Guid(425c73725150fff43b3d4f8a434c6ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d150b37d68f6fe55e8a4169dfd8efc') in 0.013529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered12.png
+  artifactKey: Guid(83eb7b71b35ab6845bacded78855c9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered12.png using Guid(83eb7b71b35ab6845bacded78855c9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce53d54b99b7b37b99a3c7c9440994d') in 0.015486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/очнулся8.png
+  artifactKey: Guid(f58faa852d22e804b84fe9d42904f785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/очнулся8.png using Guid(f58faa852d22e804b84fe9d42904f785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3509f64cd1b58383e0fe1de6e4f9581') in 0.013658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/очнулся10.png
+  artifactKey: Guid(036581cc8e6eed445b3726d073446bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/очнулся10.png using Guid(036581cc8e6eed445b3726d073446bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afddc0f6fc2bd9793251556ab9c00e01') in 0.014267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/пизданулся15.png
+  artifactKey: Guid(37f6792060ef8bc4394771d9248395c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/пизданулся15.png using Guid(37f6792060ef8bc4394771d9248395c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ee3269be88c19678fd96d97894effb3') in 0.014575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/пизданулся14.png
+  artifactKey: Guid(e41e28b6260be694a891ba1f482415af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/пизданулся14.png using Guid(e41e28b6260be694a891ba1f482415af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58195fb463499c53f4f9df0c52dd1e7f') in 0.014910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered6.png
+  artifactKey: Guid(d49999fd1be01b944a67743dc32b2ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered6.png using Guid(d49999fd1be01b944a67743dc32b2ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b008a0455f5a753ea980264cf9c9de') in 0.014153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered20.png
+  artifactKey: Guid(b812613c39d01f14e893113077a0845e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered20.png using Guid(b812613c39d01f14e893113077a0845e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b444dabec0dc417fa49b83ed9eca676') in 0.014554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното6.png
+  artifactKey: Guid(dc23158141f0359458321311324cecb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното6.png using Guid(dc23158141f0359458321311324cecb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb954acfd00085e2461b936677439540') in 0.013646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното7.png
+  artifactKey: Guid(8f9c6149f97c3864a8d4b3eb61b60760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/я впервые рисую прыжок прости ното7.png using Guid(8f9c6149f97c3864a8d4b3eb61b60760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a6133b9a658aef19e36bf9a405fcaa') in 0.014321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/очнулся14.png
+  artifactKey: Guid(3057d415de4377f468101698ba7a82de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/очнулся14.png using Guid(3057d415de4377f468101698ba7a82de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41b6c519ce2b2243b9854255943890d') in 0.015598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered7.png
+  artifactKey: Guid(c4adddecdd7ee944883e736e946bbc22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/ААА ОЖИЛ ЧМО-Recovered7.png using Guid(c4adddecdd7ee944883e736e946bbc22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4439f20b8664e5d3a2e179481594481') in 0.016224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/очнулся7.png
+  artifactKey: Guid(868938523e81d9f47949c53aa53eebb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/очнулся7.png using Guid(868938523e81d9f47949c53aa53eebb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6d994c5030aaecc5f36859bf72bc72') in 0.013794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/бег 3.png
+  artifactKey: Guid(f727e206f251d1c49a2f8f93fec4911b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/бег 3.png using Guid(f727e206f251d1c49a2f8f93fec4911b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06c16cf4199b8746be2a5804aad8d13') in 0.020046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/очнулся3.png
+  artifactKey: Guid(0b0558cb2b9b00b4dbe36d90cc0bb85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/очнулся3.png using Guid(0b0558cb2b9b00b4dbe36d90cc0bb85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28389ccccef33e7cee84b2b471830381') in 0.012807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/пизданулся9.png
+  artifactKey: Guid(fee4a3e837dbf1c449f0a26dfde8a2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/пизданулся9.png using Guid(fee4a3e837dbf1c449f0a26dfde8a2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b2dac82299d502a2eb507a87c772ac') in 0.013714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/очнулся5.png
+  artifactKey: Guid(7d02d9bcd0c190f4185b926c24c2a2d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/очнулся5.png using Guid(7d02d9bcd0c190f4185b926c24c2a2d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21bc35b7cbcbd1395847621c99c8ffb2') in 0.013308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/New Folder/BIPBUPS/очнулся17.png
+  artifactKey: Guid(41e9f40d8bd820142b22625f1e18643a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BIPBUPS/очнулся17.png using Guid(41e9f40d8bd820142b22625f1e18643a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd983c37d8f9fead359d678761f47b78e') in 0.012995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.576114 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/BLOK SMOTRIT .png
+  artifactKey: Guid(a7f8f36527901a748b34cfaafc693a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/BLOK SMOTRIT .png using Guid(a7f8f36527901a748b34cfaafc693a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43ec46a35d3484982cb5ffc73523c18b') in 0.014889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/блоки.png
+  artifactKey: Guid(c14422878f7ca774b9c051f4a3cba787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/блоки.png using Guid(c14422878f7ca774b9c051f4a3cba787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8844cf9e43934dd1eaa417cfe89ed7') in 0.017014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/шипф.png
+  artifactKey: Guid(638dab526b098c7459b352458c279a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/шипф.png using Guid(638dab526b098c7459b352458c279a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb82ba6983cc268ca3df04d39be4f68') in 0.018231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/mus.png
+  artifactKey: Guid(541483b9204f97e42904d89ddfd208a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/mus.png using Guid(541483b9204f97e42904d89ddfd208a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36fdb37a38f19f66f74337aaa0ba950e') in 0.021272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/айдл4.png
+  artifactKey: Guid(f706c0238f9f0af47a06d5c0b040dc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/айдл4.png using Guid(f706c0238f9f0af47a06d5c0b040dc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51dad3811aa05f703fe539d59f653bda') in 0.048753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/BLOKVODOROSLY.png
+  artifactKey: Guid(d605bd1a719a3694887c8d7d46fbaebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/BLOKVODOROSLY.png using Guid(d605bd1a719a3694887c8d7d46fbaebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d63d8e7ef180354b0414d7fe9f0a4fa') in 0.027698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/айдл3.png
+  artifactKey: Guid(97001842ecc795048826a7f54cdb089c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/айдл3.png using Guid(97001842ecc795048826a7f54cdb089c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78fbe6abe0354ea5ceebc97c0d5b3aff') in 0.028452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/айдл5.png
+  artifactKey: Guid(78e0a9b435790224a96fbe32baeefb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/айдл5.png using Guid(78e0a9b435790224a96fbe32baeefb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ee13eb05f4d1ff4ff9cc16b4149ee3') in 0.017411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/FULLRET.png
+  artifactKey: Guid(8968937ff6ca9c24f8e5a2a35edf0d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/FULLRET.png using Guid(8968937ff6ca9c24f8e5a2a35edf0d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c982a785b699c03c376e83ede8dc538') in 0.027119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/BLOKNETRAMOK.png
+  artifactKey: Guid(d4d8dbe2b246d6b45bab79dc0827ffb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/BLOKNETRAMOK.png using Guid(d4d8dbe2b246d6b45bab79dc0827ffb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a332991f7fedb673297acd0ae734ae02') in 0.013646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/айдл6.png
+  artifactKey: Guid(4241e7e7c10eb654a86a78a4dc0d95bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/айдл6.png using Guid(4241e7e7c10eb654a86a78a4dc0d95bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4cb6ed0b9305413b4b3f06c953e4ae') in 0.017907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/BLOKPEREHOD.png
+  artifactKey: Guid(7506103fb8bfc3a4eb0493b23d0ab72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/BLOKPEREHOD.png using Guid(7506103fb8bfc3a4eb0493b23d0ab72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '189bdf3266f0ca32d46c84eeebd6cea7') in 0.013898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/коробка.png
+  artifactKey: Guid(4919cba8e0ba9614581b8c25d10cfede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/коробка.png using Guid(4919cba8e0ba9614581b8c25d10cfede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e99d43463c46e3f82b72b2e9d10f380f') in 0.013309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/BLOCKS/rock).png
+  artifactKey: Guid(2e98bcb6ab3d7b8439f3f448061163d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/BLOCKS/rock).png using Guid(2e98bcb6ab3d7b8439f3f448061163d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7589bba4261d588a21e8fc9487803dc') in 0.023088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.967354 seconds.
+  path: Assets/Sprites/New Folder/NUTS/BLUE_NUT4.png
+  artifactKey: Guid(ded804ed216541e4cb45287180999e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/NUTS/BLUE_NUT4.png using Guid(ded804ed216541e4cb45287180999e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85eac816edd5b20eb04bec2d0b3e759') in 0.014358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/New Folder/NUTS/PIPIS1.png
+  artifactKey: Guid(259a26bde6d2ab14786711a005696c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/NUTS/PIPIS1.png using Guid(259a26bde6d2ab14786711a005696c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '950cfcf790074d19d0a2e4ca3bcc4e0f') in 0.012874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/New Folder/NUTS/PIPIS4.png
+  artifactKey: Guid(b5d7e8ded7781ba4cbaaf5e6d7041429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/NUTS/PIPIS4.png using Guid(b5d7e8ded7781ba4cbaaf5e6d7041429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54e7b27ed3bbd931e390d54961fc171') in 0.013223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Sprites/New Folder/NUTS/PIPIS5.png
+  artifactKey: Guid(65bbd06632387ca4b8fc33f35eaadaf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/NUTS/PIPIS5.png using Guid(65bbd06632387ca4b8fc33f35eaadaf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c496921a6bcdefcee905035fe204528b') in 0.012789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/New Folder/NUTS/PIPIS3.png
+  artifactKey: Guid(041d0caa29c2b2e48989b6a8d950244d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/NUTS/PIPIS3.png using Guid(041d0caa29c2b2e48989b6a8d950244d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a20e95d55be05c1875d65fa901bc1272') in 0.014162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/New Folder/NUTS/PIPIS2.png
+  artifactKey: Guid(3692b9b40cf20bd46bd4b7a8e6df55b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/NUTS/PIPIS2.png using Guid(3692b9b40cf20bd46bd4b7a8e6df55b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2066cde63d09beda56d6d68976eacd4') in 0.012080 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/New Folder/NUTS/RET5.png
+  artifactKey: Guid(b2af89b3e5a044d40ace1ef75b9cde6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/NUTS/RET5.png using Guid(b2af89b3e5a044d40ace1ef75b9cde6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bb42597243d61a3ba3c93173c3cbb76') in 0.013497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.891386 seconds.
+  path: Assets/Sprites/New Folder/SEELE/SEELE 4.png
+  artifactKey: Guid(1be65288cc3e6e44aa7a7dffe6332a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/SEELE 4.png using Guid(1be65288cc3e6e44aa7a7dffe6332a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a23d8566cfdc397aa60c6a624f2c5878') in 0.017228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/New Folder/SEELE/SEELE 23.png
+  artifactKey: Guid(bb2603b8d1dc0824186ca004174fd4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/SEELE 23.png using Guid(bb2603b8d1dc0824186ca004174fd4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299c2fc1a5ea680fbced08c9e11ba57e') in 0.017036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/New Folder/SEELE/seeledrive1.png
+  artifactKey: Guid(4a6614fd702d7bb458665d7c58eb4f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/seeledrive1.png using Guid(4a6614fd702d7bb458665d7c58eb4f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff090ff83e994c0a81c0c3f3eb778706') in 0.016595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/New Folder/SEELE/SEELE 25.png
+  artifactKey: Guid(394b689aa31e40e4982958c664680b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/SEELE 25.png using Guid(394b689aa31e40e4982958c664680b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e01e2bc88b0d45f6fb7506486c0a3a64') in 0.014546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/New Folder/SEELE/SEELE 21.png
+  artifactKey: Guid(a9bf11f592e182946974965c59f1f923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/SEELE/SEELE 21.png using Guid(a9bf11f592e182946974965c59f1f923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7422105ae2d8eed1926cf9a8a0c073ec') in 0.012241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.380142 seconds.
+  path: Assets/Sprites/New Folder/DECOR LEVEL)/КОСТЯШКИ УЕБАШКИ/ЛЕВАЯ НОГА.png
+  artifactKey: Guid(ce59023ed50166543a31d62a4c901fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Folder/DECOR LEVEL)/КОСТЯШКИ УЕБАШКИ/ЛЕВАЯ НОГА.png using Guid(ce59023ed50166543a31d62a4c901fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c893476139e451ead3e704b55ce75796') in 0.018814 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
