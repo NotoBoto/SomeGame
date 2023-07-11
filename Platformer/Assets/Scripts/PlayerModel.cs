@@ -24,4 +24,11 @@ public class PlayerModel
         get { return _isGameOn; }
         set { _isGameOn = value; }
     }
+
+    private int _score;
+    public int Score 
+    { 
+        get { return _score; } 
+        set { _score = value; }
+    }
 }
