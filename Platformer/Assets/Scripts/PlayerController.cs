@@ -7,7 +7,6 @@ using UnityEngine.UI;
 public class PlayerController : MonoBehaviour
 {
     public PlayerModel _playerModel;
-    public PlayerView _playerView;
     private Rigidbody2D _playerRigidbody;
     private Animator _playerAnimator;
     private AudioSource _playerAudioSource;
@@ -17,15 +16,11 @@ public class PlayerController : MonoBehaviour
 
     private AudioClip[] _audioClips;
 
-    public float PlayerSpeed;
-    public float PlayerJumpForce;
-
     private void Awake()
     {
         Cursor.visible = false;
 
         _playerModel = new PlayerModel();
-        _playerView = GetComponent<PlayerView>();
         _playerRigidbody = GetComponent<Rigidbody2D>();
         _playerAnimator = GetComponent<Animator>();
         _playerAudioSource = GetComponent<AudioSource>();
@@ -35,8 +30,8 @@ public class PlayerController : MonoBehaviour
 
         _audioClips = Resources.LoadAll<AudioClip>("Sound/FX");
 
-        _playerModel.JumpForce = PlayerJumpForce;
-        _playerModel.Speed = PlayerSpeed;
+        _playerModel.JumpForce = 6f;
+        _playerModel.Speed = 6f;
         _playerModel.IsGameOn = false;
         _playerModel.Score = 0;
     }
@@ -58,11 +53,15 @@ public class PlayerController : MonoBehaviour
             transform.position += new Vector3(Input.GetAxis("Horizontal") * speed * Time.deltaTime, 0f, 0f);
         }
 
-        if (Input.GetKeyDown(KeyCode.W) && Mathf.Abs(_playerRigidbody.velocity.y) < 0.001f)
+        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.Space))
         {
-            _playerRigidbody.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
-            _playerAnimator.SetBool("IsJumping", true);
-            PlayJumpSound();
+            if (Mathf.Abs(_playerRigidbody.velocity.y) < 0.001f) 
+            {
+                _playerRigidbody.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
+                _playerAnimator.SetBool("IsJumping", true);
+                PlayJumpSound();    
+            }
+
         }
         else if (Mathf.Abs(_playerRigidbody.velocity.y) == 0f && _playerAnimator.GetBool("IsJumping"))
         {
@@ -103,7 +102,7 @@ public class PlayerController : MonoBehaviour
         _canvas.transform.Find("DieText").gameObject.SetActive(true);
         _canvas.transform.Find("Score").gameObject.SetActive(true);
         _canvas.transform.Find("Score").GetComponent<TextMeshProUGUI>().text = _playerModel.Score.ToString();
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(0.5f);
         _lvlController.IsWaitingForInputToRestart = true;
     }
     private void PlayStepSound()

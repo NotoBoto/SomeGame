@@ -17,6 +17,7 @@ public class LvlController : MonoBehaviour
 
     private int _currentOffsetX;
     private bool _isWaitingForInputToStart = true;
+    [HideInInspector]
     public bool IsWaitingForInputToRestart = false;
 
     private void Awake()
