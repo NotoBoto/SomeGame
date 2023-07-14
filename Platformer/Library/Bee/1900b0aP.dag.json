@@ -17106,7 +17106,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1188983,
       "PayloadLength": 45153,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/4747638433968585886.rsp"
@@ -17505,7 +17505,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1234225,
       "PayloadLength": 29655,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/7613050566626658858.rsp"
@@ -18463,7 +18463,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1263970,
       "PayloadLength": 29622,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/14860638655416492113.rsp"
@@ -19423,7 +19423,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1293682,
       "PayloadLength": 29624,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/16173601400039901189.rsp"
@@ -20383,7 +20383,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1323395,
       "PayloadLength": 29645,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/6430716270975990682.rsp"
@@ -21343,7 +21343,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1353130,
       "PayloadLength": 29407,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/18345886388837496740.rsp"
@@ -22304,7 +22304,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1382626,
       "PayloadLength": 29634,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/4320045419077559961.rsp"
@@ -23264,7 +23264,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1412350,
       "PayloadLength": 29618,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/16535624540582444286.rsp"
@@ -24224,7 +24224,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1442058,
       "PayloadLength": 29618,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/16165950076103467137.rsp"
@@ -25184,7 +25184,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1471765,
       "PayloadLength": 29640,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/2825474603313457067.rsp"
@@ -26144,7 +26144,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1501494,
       "PayloadLength": 29704,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/9086351026866434582.rsp"
@@ -27104,7 +27104,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1531287,
       "PayloadLength": 29683,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/8777404427811830579.rsp"
@@ -28066,7 +28066,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1561060,
       "PayloadLength": 29695,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/17082924578689188940.rsp"
@@ -29028,7 +29028,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1590845,
       "PayloadLength": 29730,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/12777052554256862767.rsp"
@@ -29993,7 +29993,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1620664,
       "PayloadLength": 29823,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/3763678773947237655.rsp"
@@ -30955,7 +30955,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1650577,
       "PayloadLength": 29938,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/10447189825581068250.rsp"
@@ -31926,7 +31926,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1680605,
       "PayloadLength": 29833,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/16950770319394948706.rsp"
@@ -32893,7 +32893,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1710528,
       "PayloadLength": 29764,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/11269469109637777866.rsp"
@@ -33857,7 +33857,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1740381,
       "PayloadLength": 30635,
-      "PayloadDebugContentSnippet": "\"unity-ilpp-8c0d778cdfd7ea8413",
+      "PayloadDebugContentSnippet": "\"unity-ilpp-740fb6edd4766f2a35",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/8031029260432620717.rsp"
@@ -35417,7 +35417,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json (+1 other)",
       "DisplayName": "BuildPlayerDataGenerator RuntimeInitializeOnLoads",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.Unsafe.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Managed/UnityEngine\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/NetStandard/Extensions/2.0.0\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/NetStandard/ref/2.1.0\" -s=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/PlayerScriptAssemblies\" -s=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/PackageCache/com.unity.burst@1.8.7\" -s=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport\" -s=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.Unsafe.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Managed/UnityEngine\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/NetStandard/Extensions/2.0.0\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/NetStandard/ref/2.1.0\" -s=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/PlayerScriptAssemblies\" -s=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/PackageCache/com.unity.burst@1.8.7\" -s=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport\" -s=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -35720,6 +35720,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aP.dag.json",
-  "PayloadsFile": "C:/Users/notob/Documents/GitHub/SoloGame/Platformer/Library/Bee/1900b0aP.dag.payloads",
+  "PayloadsFile": "C:/Users/notob/Documents/GitHub/SomeGame/Platformer/Library/Bee/1900b0aP.dag.payloads",
   "RelativePathToRoot": "../.."
 }
